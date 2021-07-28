@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://fb.com/avarsolutionsandavartechofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avarsolutionsandavartechofficial" height="30" width="40" /></a>
 <a href="https://instagram.com/avarsolutionsandavartech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avarsolutionsandavartech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/avar tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avar tech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC02IIJ4Zc5FMkfeS9LxAqcA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avar tech" height="30" width="40" /></a>
 <a href="https://discord.gg/tKUsrPHHYs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tKUsrPHHYs" height="30" width="40" /></a>
 </p>
 
