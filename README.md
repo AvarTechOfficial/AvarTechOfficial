@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://discord.gg/tKUsrPHHYs](https://discord.gg/tKUsrPHHYs)
 
-- 📝 I regularly write articles on [https://www.avarsolutions.in/](https://www.avarsolutions.in/)
+- 📝 I regularly write articles on [https://www.avartech.tech/](https://www.avartech.tech/)
 
 - 💬 Ask me douts **in My Discord Server**
 
