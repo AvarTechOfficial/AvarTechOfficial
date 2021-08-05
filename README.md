@@ -9,7 +9,7 @@
 
 - 💬 Ask me douts **in My Discord Server**
 
-- 📫 How to reach me **support@avarsolutions.in**
+- 📫 How to reach me **support@avartech.tech**
 
 - 📄 Know about my experiences [https://www.avarsolutions.in/](https://www.avarsolutions.in/)
 
